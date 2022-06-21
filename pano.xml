@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="5.2.5" apprev="15998" start="node2">
+  <panorama id="node1">
+    <input levelbias="0.400" levelingroll="0" width="1520" levelingpitch="0" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1520" levelbiashidpi="0.400">
+      <level predecode="0" width="1520" height="1520" preload="0"/>
+      <level predecode="0" width="760" height="760" preload="0"/>
+      <level predecode="1" width="380" height="380" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" scaletofit="1" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata author="" datetime="28/12/2021 10:02" source="" title="Teras VIII (Kedua)" comment="" longitude="" latitude="" customnodeid="" info="" description="Teras kedelapan terdapat tiga buah candi dan empat buah batur bangunan" tags="Foto_Fix" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" backgroundalpha="1" width="180" borderradius="1" wordwrap="1" textcolor="0x000000" enabled="1" height="20" background="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot tilt="-1.19" id="Point01" title="" pan="-163.98" target="" url="{node6}" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" enabled="0" blendcolor="0x000000" zoomin="0" zoomfov="20" softedge="0"/>
+    <control rubberband="0" lockedkeyboard="0" speedwheel="1" hideabout="0" lockedwheel="0" lockedkeyboardzoom="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" invertwheel="0" contextfullscreen="0" lockedmouse="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" levelingroll="0" width="1520" levelingpitch="0" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1520" levelbiashidpi="0.400">
+      <level predecode="0" width="1520" height="1520" preload="0"/>
+      <level predecode="0" width="760" height="760" preload="0"/>
+      <level predecode="1" width="380" height="380" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-0.46" pan="-34.44" projection="4" fov="85.5"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" scaletofit="1" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata author="" datetime="28/12/2021 9:45" source="" title="Teras XI (Barat)" comment="" longitude="" latitude="" customnodeid="" info="" description="Pada Area Teras XI terdapat tiga buah Candi Perwara dan satu Candi Induk" tags="Foto_Fix" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" backgroundalpha="1" width="180" borderradius="1" wordwrap="1" textcolor="0x000000" enabled="1" height="20" background="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot tilt="-0.32" id="Point01" title="Teras XI (Selatan)" pan="-65.85" target="" url="{node4}" description="" skinid="ht_node"/>
+      <hotspot tilt="0.41" id="Point02" title="Teras XI (Utara)" pan="-4.67" target="" url="{node5}" description="" skinid="ht_node"/>
+      <hotspot tilt="-12.98" id="Point03" title="Teras VIII (Pertama)" pan="146.22" target="" url="{node6}" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" enabled="0" blendcolor="0x000000" zoomin="0" zoomfov="20" softedge="0"/>
+    <control rubberband="0" lockedkeyboard="0" speedwheel="1" hideabout="0" lockedwheel="0" lockedkeyboardzoom="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" invertwheel="0" contextfullscreen="0" lockedmouse="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" levelingroll="0" width="1520" levelingpitch="0" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1520" levelbiashidpi="0.400">
+      <level predecode="0" width="1520" height="1520" preload="0"/>
+      <level predecode="0" width="760" height="760" preload="0"/>
+      <level predecode="1" width="380" height="380" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" scaletofit="1" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata author="" datetime="28/12/2021 9:48" source="" title="Teras XI (Candi Induk)" comment="" longitude="" latitude="" customnodeid="" info="" description="Terdapat Candi Induk berukuran 18,43 x 18,45 meter, dan tinggi 16 meter" tags="Foto_Fix" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" backgroundalpha="1" width="180" borderradius="1" wordwrap="1" textcolor="0x000000" enabled="1" height="20" background="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot tilt="-3.08" id="Point01" title="Teras XI (Selatan)" pan="104.65" target="" url="{node4}" description="" skinid="ht_node"/>
+      <hotspot tilt="-5.4" id="Point02" title="Teras XI (Utara)" pan="-132.09" target="" url="{node5}" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" enabled="0" blendcolor="0x000000" zoomin="0" zoomfov="20" softedge="0"/>
+    <control rubberband="0" lockedkeyboard="0" speedwheel="1" hideabout="0" lockedwheel="0" lockedkeyboardzoom="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" invertwheel="0" contextfullscreen="0" lockedmouse="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbias="0.400" levelingroll="0" width="1520" levelingpitch="0" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1520" levelbiashidpi="0.400">
+      <level predecode="0" width="1520" height="1520" preload="0"/>
+      <level predecode="0" width="760" height="760" preload="0"/>
+      <level predecode="1" width="380" height="380" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" scaletofit="1" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata author="" datetime="28/12/2021 9:54" source="" title="Teras XI (Selatan)" comment="" longitude="" latitude="" customnodeid="" info="" description="Terlihat tiga buah perwara dengan ukuran yang berbeda-beda" tags="Foto_Fix" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" backgroundalpha="1" width="180" borderradius="1" wordwrap="1" textcolor="0x000000" enabled="1" height="20" background="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot tilt="-1.87" id="Point01" title="Teras XI (Candi Induk)" pan="115.11" target="" url="{node3}" description="" skinid="ht_node"/>
+      <hotspot tilt="-0.44" id="Point02" title="Teras XI (Utara)" pan="85.42" target="" url="{node5}" description="" skinid="ht_node"/>
+      <hotspot tilt="-1.71" id="Point03" title="Teras XI (Barat)" pan="146.92" target="" url="{node2}" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" enabled="0" blendcolor="0x000000" zoomin="0" zoomfov="20" softedge="0"/>
+    <control rubberband="0" lockedkeyboard="0" speedwheel="1" hideabout="0" lockedwheel="0" lockedkeyboardzoom="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" invertwheel="0" contextfullscreen="0" lockedmouse="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbias="0.400" levelingroll="0" width="1520" levelingpitch="0" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1520" levelbiashidpi="0.400">
+      <level predecode="0" width="1520" height="1520" preload="0"/>
+      <level predecode="0" width="760" height="760" preload="0"/>
+      <level predecode="1" width="380" height="380" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" scaletofit="1" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata author="" datetime="28/12/2021 9:55" source="" title="Teras XI (Utara)" comment="" longitude="" latitude="" customnodeid="" info="" description="Terlihat tiga buah perwara dengan ukuran yang berbeda-beda" tags="Foto_Fix" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" backgroundalpha="1" width="180" borderradius="1" wordwrap="1" textcolor="0x000000" enabled="1" height="20" background="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot tilt="-1.25" id="Point01" title="Teras XI (Selatan)" pan="-98.25" target="" url="{node4}" description="" skinid="ht_node"/>
+      <hotspot tilt="-2.7" id="Point02" title="Teras XI (Candi Induk)" pan="-125.3" target="" url="{node3}" description="" skinid="ht_node"/>
+      <hotspot tilt="-2.48" id="Point03" title="Teras XI (Barat)" pan="-154.54" target="" url="{node2}" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" enabled="0" blendcolor="0x000000" zoomin="0" zoomfov="20" softedge="0"/>
+    <control rubberband="0" lockedkeyboard="0" speedwheel="1" hideabout="0" lockedwheel="0" lockedkeyboardzoom="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" invertwheel="0" contextfullscreen="0" lockedmouse="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbias="0.400" levelingroll="0" width="1520" levelingpitch="0" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1520" levelbiashidpi="0.400">
+      <level predecode="0" width="1520" height="1520" preload="0"/>
+      <level predecode="0" width="760" height="760" preload="0"/>
+      <level predecode="1" width="380" height="380" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" scaletofit="1" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata author="" datetime="28/12/2021 10:00" source="" title="Teras VIII (Pertama)" comment="" longitude="" latitude="" customnodeid="" info="" description="Teras kedelapan terdapat tiga buah candi dan empat buah batur bangunan" tags="Foto_Fix" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" backgroundalpha="1" width="180" borderradius="1" wordwrap="1" textcolor="0x000000" enabled="1" height="20" background="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot tilt="-11.55" id="Point01" title="Teras VIII (Kedua)" pan="-124.67" target="" url="{node1}" description="" skinid="ht_node"/>
+      <hotspot tilt="11.68" id="Point02" title="Teras XI (Barat)" pan="66.74" target="" url="{node2}" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" enabled="0" blendcolor="0x000000" zoomin="0" zoomfov="20" softedge="0"/>
+    <control rubberband="0" lockedkeyboard="0" speedwheel="1" hideabout="0" lockedwheel="0" lockedkeyboardzoom="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" invertwheel="0" contextfullscreen="0" lockedmouse="0" invertcontrol="1"/>
+  </panorama>
+</tour>
